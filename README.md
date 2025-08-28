@@ -9,13 +9,13 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
   <img " width="49%" src=/src/img2.png/>
   <img width="100%" height="30%" src="/src/img3.png">
 </p>
-## How to install Mikphisher
+#### How to install Mikphisher
 *  `apt upgrade`
 
 
 *   `apt  git -y`
 
-   <p style="font-size:24px;">This is bigger text</p>
+   <p style="font-size:64px;">This is bigger text</p>
 
 
 
