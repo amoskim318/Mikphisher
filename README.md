@@ -15,6 +15,8 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 *   `apt  git -y`
 
+   <p style="font-size:24px;">This is bigger text</p>
+
 
 
 * `https://github.com/amoskim318/Mikphisher.git`
