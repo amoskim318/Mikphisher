@@ -14,6 +14,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 ## How to install Mikphisher
 
 *  <p style="color:#00ff00">apt update</p>
+<p style="color: #00ff00">apt update</p>
 
 *  `apt upgrade`
 
