@@ -1,14 +1,14 @@
 # PhoneTruckerByMICTC-TOPBOY
-<p> Tool created by amos kim</p>
+<p> Tool created by Amos Kim  🎩 🎩 Top  Boy</p>
 
 ---
 
 ## 🔍 About the Tool
 
-**PhoneTruckerByMICTC-TOPBOY** is a collection of tools created for **cybersecurity research, ethical hacking, and educational demonstrations**.  
+**Mikphisher** is a collection of tools created for **cybersecurity research, ethical hacking, and educational demonstrations**.  
 It combines two main utilities:
 
-- **IP-Tracer** → A fast and simple IP tracking tool that retrieves geolocation, ISP, and network details using the ip-api service.  
+- **Mikphisher** → A fast and phishing page eg Facebook   
 - **Mikphisher** → A phishing tool designed for **security testing and awareness training**, allowing researchers and administrators to demonstrate phishing techniques safely in a controlled environment.
 
 ⚡ **Key Features**
@@ -21,11 +21,10 @@ It combines two main utilities:
 
 ---
 
-## 📡 IP-Tracer
+## 📡 MIkphisher
 
-IP-Tracer is used to track an IP address. It is developed for Termux and Linux systems.  
-You can easily retrieve IP address information using IP-Tracer, which relies on **ip-api** for accurate results.
-
+Mikphisher is used in phishing page. It is developed for Termux and Linux systems.  
+You can easily use it
 <p align="">
 <img " width="50%" src="/src/img1.png"/>
 <img " width="49%" src=/src/img2.png/>
@@ -34,16 +33,15 @@ You can easily retrieve IP address information using IP-Tracer, which relies on 
 
 ---
 
-## ⚙️ How to Install Mikphisher
+## ⚙️First reflesh your Terminal 
 
 * `apt upgrade`
 * `apt git -y`
 
-# 🚀 This is bigger text
+# 🚀 How to install Mikphisher
 
-* `https://github.com/amoskim318/Mikphisher.git`
+* `git clone https://github.com/amoskim318/Mikphisher.git`
 * `cd Mikphisher`
-* `chmod +x *`
 * `python Mikphisher.py`
 
 ---
@@ -56,3 +54,4 @@ You can easily retrieve IP address information using IP-Tracer, which relies on 
 ---
 
 **✅ This project is actively maintained.**
+** 🎩 contact for updated version 
