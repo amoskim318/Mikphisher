@@ -17,6 +17,9 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 <p style="color: #00ff00">apt update</p>
 
 *  `apt upgrade`
+*  <span style="color:red">This text is red</span>
+<span style="color:green">This text is green</span>
+<span style="color:#ffaa00">This text is orange</span>
 
 * `apt  git -y`
 
