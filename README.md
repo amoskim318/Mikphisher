@@ -9,18 +9,25 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
   <img " width="49%" src=/src/img2.png/>
   <img width="100%" height="30%" src="/src/img3.png">
 </p>
-![Red Text](https://img.shields.io/badge/Text-Red-red)
-![Green Text](https://img.shields.io/badge/Text-Green-green)
-![Custom](https://img.shields.io/badge/Hello-World-ffaa00)
 ## How to install Mikphisher
 *  `apt upgrade`
+
+
 *   `apt  git -y`
+
+
 
 * `https://github.com/amoskim318/Mikphisher.git`
 
+
+
 * `cd Mikphisher`
 
+  
+
 * `chmod +x *`
+
+  
 
 * `python Mikphisher.py` 
 
