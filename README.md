@@ -50,7 +50,8 @@ You can easily use it
 
 * Press `1` → Start Mikphisher  
 * Press `2` → Contact the Admin  
-* Type ls to list the files the username and password will be stored in afile input log
+* Type ls to list the files the username and password will be stored in afile input_log.txt
+* type cat input_log.txt to view username and password 
 ---
 
 **✅ This project is actively maintained.**
