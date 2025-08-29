@@ -3,7 +3,7 @@
 
 ---
 
-## 🔍 About the Tool
+## 🔍 About the Tool && version 1.0.12
 
 **Mikphisher** is a collection of tools created for **cybersecurity research, ethical hacking, and educational demonstrations**.  
 It combines two main utilities:
@@ -37,6 +37,9 @@ You can easily use it
 
 * `apt upgrade`
 * `apt git -y`
+
+## Required installation before running the Tool
+* `pip install pyfiglet flask`
 
 # 🚀 How to install Mikphisher
 
