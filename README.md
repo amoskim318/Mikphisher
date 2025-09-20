@@ -26,7 +26,7 @@ It combines two main utilities:
 Mikphisher is used in phishing page. It is developed for Termux and Linux systems.  
 You can easily use it
 <p align="">
-<img " width="50%" src="/src/img1.png"/>
+<img " width="50%" src="src/IMG_20250920_055055.png"/>
 <img " width="49%" src=/src/img2.png/>
 <img width="100%" height="30%" src="/src/img3.png">
 </p>
